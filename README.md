@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width =60%>
+
+
 ### Hi there 👋
 
 🌱 I’m currently learning DSA and Web Development.<br>
