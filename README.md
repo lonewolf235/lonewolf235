@@ -1,56 +1,72 @@
-<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width =100% style="vertical-align:middle">
 
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I'm Prakash Veer Singh Tomar</h1>
+
+![](https://komarev.com/ghpvc/?username=lonewolf235&color=red&style=flat-square)
+
+<p align="left"> <a href="https://twitter.com/_me_Prakash" target="blank"><img src="https://img.shields.io/twitter/follow/_me_Prakash?logo=twitter&style=for-the-badge" alt="Prakash Veer Singh Tomar" /></a> </p>
+
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="450" height="500" />
 
 ### Hi there 👋
-🌱 I'm highly interested in Machine Learning and Data Science.
-🌱 I’m currently learning DSA and Web Development.<br>
-👯 I’m looking to collaborate on any Open-source project.<br>
-🤔 I’m looking for help with Backend Development.<br>
-💬 Ask me about anything either hobbies or whatever u want.<br>
-📫 How to reach me: gagantomar235@gmail.com  <br>       
-⚡ Fun fact: U can call me Pique.
+- 🌱 I'm highly interested in **Machine Learning and Data Science**.
+- 🔭 I’m currently working on **Web Development 👨🏽‍💻**
+- 🌱 I’m currently learning **DSA 🙋🏽‍♂️**
+- 👯 I’m looking to collaborate on any Open-source project.<br>
+- 👯 I’m looking for help with **Backend Development**.<br>
+- 💬 Ask me about anything either hobbies or whatever u want.<br>
+- 💬 Ask me about **python, java and c++**
+### 📫 How to reach me: ***gagantomar235@gmail.com***  <br>       
+#### ⚡ Fun fact: U can call me **Pique**.
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="prakash portfolio.com" width="22px" src="https://github.com/lonewolf235/web-d-Project-2-CSS-Site/blob/main/boy.png" />][website]
-[<img align="left" alt="Prakash | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Prakash| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Prakash | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Prakash | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Prakash| Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="Prakash | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="Prakash | Instagram" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/instagram.svg" />][instagram]
+[<img align="left" alt="Prakash | Hackerrank" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/hackerrank.svg" />][Hackerrank]
+[<img align="left" alt="Prakash | LeetCode" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/leet-code.svg" />][LeetCode]
 
 <br />
+<br/>
 
-### Languages and Tools:
+## Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />][webdevplaylist]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
-[<img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />][webdevplaylist]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Java" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" />][webdevplaylist]
+[<img align="left" alt="CPP" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/cpp.svg" />][webdevplaylist]
+[<img align="left" alt="C" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/c.svg" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" />][webdevplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/BackendDevelopment/nodejs.svg" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Database/mongodb.svg" />][webdevplaylist]
+[<img align="left" alt="GCP" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Devops/gcp.svg" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="OpenCV" width="26px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/AIML/opencv.svg" />][webdevplaylist]
 
 <br />
 <br />
-<h2>My Stats</h2>
-<hr>
- <img src="https://github-readme-stats.vercel.app/api?username=lonewolf235&&show_icons=true&title_color=348781&icon_color=008b8b&text_color=008B8B&bg_color=E0FFFF">
-<hr>
-
+<h2> My Github Stats</h2>
+<br/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lonewolf235&show_icons=true&theme=algolia&locale=en" alt="lonewolf235" width="500" height="100%"/>
+<br/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lonewolf235&show_icons=true&theme=algolia&locale=en&layout=compact" alt="lonewolf235" width="420" height="100%"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf235&theme=algolia"
+ alt="lonewolf235" width="500" height="100%"/>
+  
 
 
 
 
 [website]: https://lonewolf235.github.io/web-d-Project-2-CSS-Site/
 [twitter]: https://twitter.com/_me_Prakash
-[youtube]: https://www.youtube.com/c/COLLEGEINSIDER07
+[Hackerrank]:https://www.hackerrank.com/gagantomar235
 [instagram]: https://www.instagram.com/i_m_prakash_tomar/
 [linkedin]: https://www.linkedin.com/in/prakash-veer-singh-tomar-49b4551b7/
+[LeetCode]: https://leetcode.com/lonewolf235/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
