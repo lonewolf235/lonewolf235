@@ -57,7 +57,7 @@
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf235&theme=algolia"
  alt="lonewolf235" width="430" height="100%"/>
   
-
+ <img src="https://github-profile-trophy.vercel.app/?username=lonewolf235&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
 
 
 
@@ -67,7 +67,4 @@
 [instagram]: https://www.instagram.com/i_m_prakash_tomar/
 [linkedin]: https://www.linkedin.com/in/prakash-veer-singh-tomar-49b4551b7/
 [LeetCode]: https://leetcode.com/lonewolf235/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://github.com/lonewolf235
