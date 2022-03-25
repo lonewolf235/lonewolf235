@@ -51,7 +51,7 @@
 <br />
 <h2> My Github Stats</h2>
 <br/>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lonewolf235&show_icons=true&theme=algolia&locale=en" alt="lonewolf235" width="430" height="100%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lonewolf235&show_icons=true&count_private=true&theme=radical&locale=en" alt="lonewolf235" width="430" height="100%"/>
 <br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=lonewolf235&show_icons=true&theme=algolia&locale=en&layout=compact" alt="lonewolf235" width="360" height="100%"/>
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lonewolf235&theme=algolia"
