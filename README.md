@@ -9,12 +9,12 @@
 
 ### Hi there 👋
 - 🌱 I'm highly interested in **Machine Learning and Data Science**.
-- 🔭 I’m currently working on **Web Development 👨🏽‍💻**
+- 🔭 I’m currently working on **Data Analytics 👨🏽‍💻**
 - 🌱 I’m currently learning **DSA 🙋🏽‍♂️**
 - 👯 I’m looking to collaborate on any Open-source project.<br>
 - 👯 I’m looking for help with **Backend Development**.<br>
 - 💬 Ask me about anything either hobbies or whatever u want.<br>
-- 💬 Ask me about **python, java and c++**
+- 💬 Ask me about **Python, Java or Machine Learning**
 ### 📫 How to reach me: ***gagantomar235@gmail.com***  <br>       
 #### ⚡ Fun fact: U can call me **Pique**.
 
