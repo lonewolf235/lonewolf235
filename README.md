@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Data Analytics 👨🏽‍💻**
 - 🌱 I’m currently learning **DSA 🙋🏽‍♂️**
 - 👯 I’m looking to collaborate on any Open-source project.<br>
-- 👯 I’m looking for help with **Backend Development**.<br>
+- 👯 I’m looking for help with **Backend Development** specially Django.<br>
 - 💬 Ask me about anything either hobbies or whatever u want.<br>
 - 💬 Ask me about **Python, Java or Machine Learning**
 ### 📫 How to reach me: ***gagantomar235@gmail.com***  <br>       
