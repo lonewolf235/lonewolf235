@@ -61,7 +61,7 @@
 
 
 
-[website]: https://lonewolf235.github.io/web-d-Project-2-CSS-Site/
+[website]: https://prakash-tomar.super.site/
 [twitter]: https://twitter.com/_me_Prakash
 [Hackerrank]:https://www.hackerrank.com/gagantomar235
 [instagram]: https://www.instagram.com/i_m_prakash_tomar/
